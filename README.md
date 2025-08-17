@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HilalAhmad01
 - 👀 I’m interested in learning about AI and machine learning
-- 🌱 I’m currently learning Delhi Technical Campus 
+- 🌱 I’m currently learning Data Analysis/Data Science
 - 📫 How to reach me Discord echidnatea 
 
 <!---
