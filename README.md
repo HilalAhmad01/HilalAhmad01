@@ -33,18 +33,7 @@
 
 </div>
 
-<br/>
 
-## 🗂️ Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🧠 Minds-Eye](https://github.com/HilalAhmad01/Minds-Eye) | AI copilot living inside your Obsidian vault — RAG chat, flashcards & semantic search, 100% local | `Python` `TypeScript` `LangChain` `ChromaDB` `Ollama` |
-| [🌌 Echidna Research Agent](https://github.com/HilalAhmad01/Echidna-Research-Agent) | Hybrid AI research suite — deep research, fact-checking & paraphrasing via local + cloud LLMs | `Python` `Gradio` `LangChain` `FAISS` `Gemini` |
-| [♟️ Echidna Chess Bot](https://github.com/HilalAhmad01/Echidna_Chess_Bot) | Python-based chess-playing bot | `Python` |
-| [📺 TubeSense AI](https://github.com/HilalAhmad01/TubeSense-AI) | AI-powered YouTube content analysis | `Shell` |
-
-<br/>
 
 ## 📊 Stats
 
